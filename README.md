@@ -156,5 +156,6 @@ python scripts/get_vendor_summary.py
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Pujita Sunnapu**
+
 📧 Email: pujitasunnapu@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/pujitasunnapu/)
